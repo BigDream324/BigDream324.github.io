@@ -1,10 +1,10 @@
 {
-    "name": "imuncle",
-    "repo": "gitblog",
-    "client_id": "4148cca0f91e524d1a42",
-    "client_secret": "637c2c993cccf79c51a0a215f538932edfdcb9b0",
-    "title": "Gitblog",
-    "instruction": "基于GitHub issue的个人博客模板",
+    "name": "bigdream324",
+    "repo": "bigdream324.github.io",
+    "client_id": "abcd9b0743b7faf8e6bc",
+    "client_secret": "434488e6bcd136864dd8f88fd54e026b711dbf78",
+    "title": "BigDream's Blog",
+    "instruction": "大梦的个人博客",
     "server_link": "http://119.23.8.25/gh-oauth-server.php",
     "filter": {
         "creator": "all",
